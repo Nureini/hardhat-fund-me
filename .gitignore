@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+gas-report.txt
+deployments
+
+.vscode
+soljson-v0.6.0+commit.26b70077.js
+.solhint.json
+.solhintignore
